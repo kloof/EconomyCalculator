@@ -14,7 +14,7 @@ instead of calculating it or using the table.
 
 ## Installation
 
-You can find an executable in [Releases](https://www.codewars.com/kata/57b06f90e298a7b53d000a86/python)
+You can find an executable in [Releases](https://github.com/kloof/EconomyCalculator/releases)
 
 All you need to do is enter the correct values
 
